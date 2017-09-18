@@ -2,6 +2,8 @@
 
 # Client:
 
+Install: autossh, screen
+
 Startup line in /etc/rc.local:
 
 su nick -c '/home/nick/autossh'
